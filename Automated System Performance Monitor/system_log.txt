@@ -1,0 +1,8 @@
+Tuesday 24 December 2024 02:56:55 PM IST
+CPU Usage: 
+%Cpu(s):  2.0 us,  0.5 sy,  0.0 ni, 97.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+----------------------------------------------
+Tuesday 24 December 2024 02:58:59 PM IST
+CPU Usage: 
+%Cpu(s):  0.5 us,  0.5 sy,  0.0 ni, 99.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+-----------------------------------------------
